@@ -1,0 +1,30 @@
+C:\Users\dsnerp\Documents\CSharp\HotelCSharp\bin\Debug\net6.0\HotelCSharp.exe
+C:\Users\dsnerp\Documents\CSharp\HotelCSharp\bin\Debug\net6.0\HotelCSharp.deps.json
+C:\Users\dsnerp\Documents\CSharp\HotelCSharp\bin\Debug\net6.0\HotelCSharp.runtimeconfig.json
+C:\Users\dsnerp\Documents\CSharp\HotelCSharp\bin\Debug\net6.0\HotelCSharp.dll
+C:\Users\dsnerp\Documents\CSharp\HotelCSharp\bin\Debug\net6.0\HotelCSharp.pdb
+C:\Users\dsnerp\Documents\CSharp\HotelCSharp\obj\Debug\net6.0\HotelCSharp.csproj.AssemblyReference.cache
+C:\Users\dsnerp\Documents\CSharp\HotelCSharp\obj\Debug\net6.0\HotelCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsnerp\Documents\CSharp\HotelCSharp\obj\Debug\net6.0\HotelCSharp.AssemblyInfoInputs.cache
+C:\Users\dsnerp\Documents\CSharp\HotelCSharp\obj\Debug\net6.0\HotelCSharp.AssemblyInfo.cs
+C:\Users\dsnerp\Documents\CSharp\HotelCSharp\obj\Debug\net6.0\HotelCSharp.csproj.CoreCompileInputs.cache
+C:\Users\dsnerp\Documents\CSharp\HotelCSharp\obj\Debug\net6.0\HotelCSharp.dll
+C:\Users\dsnerp\Documents\CSharp\HotelCSharp\obj\Debug\net6.0\refint\HotelCSharp.dll
+C:\Users\dsnerp\Documents\CSharp\HotelCSharp\obj\Debug\net6.0\HotelCSharp.pdb
+C:\Users\dsnerp\Documents\CSharp\HotelCSharp\obj\Debug\net6.0\HotelCSharp.genruntimeconfig.cache
+C:\Users\dsnerp\Documents\CSharp\HotelCSharp\obj\Debug\net6.0\ref\HotelCSharp.dll
+C:\Users\dsnerp\Documents\Code\Curso Weberson\CSharp\HotelCSharp\bin\Debug\net6.0\HotelCSharp.exe
+C:\Users\dsnerp\Documents\Code\Curso Weberson\CSharp\HotelCSharp\bin\Debug\net6.0\HotelCSharp.deps.json
+C:\Users\dsnerp\Documents\Code\Curso Weberson\CSharp\HotelCSharp\bin\Debug\net6.0\HotelCSharp.runtimeconfig.json
+C:\Users\dsnerp\Documents\Code\Curso Weberson\CSharp\HotelCSharp\bin\Debug\net6.0\HotelCSharp.dll
+C:\Users\dsnerp\Documents\Code\Curso Weberson\CSharp\HotelCSharp\bin\Debug\net6.0\HotelCSharp.pdb
+C:\Users\dsnerp\Documents\Code\Curso Weberson\CSharp\HotelCSharp\obj\Debug\net6.0\HotelCSharp.csproj.AssemblyReference.cache
+C:\Users\dsnerp\Documents\Code\Curso Weberson\CSharp\HotelCSharp\obj\Debug\net6.0\HotelCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsnerp\Documents\Code\Curso Weberson\CSharp\HotelCSharp\obj\Debug\net6.0\HotelCSharp.AssemblyInfoInputs.cache
+C:\Users\dsnerp\Documents\Code\Curso Weberson\CSharp\HotelCSharp\obj\Debug\net6.0\HotelCSharp.AssemblyInfo.cs
+C:\Users\dsnerp\Documents\Code\Curso Weberson\CSharp\HotelCSharp\obj\Debug\net6.0\HotelCSharp.csproj.CoreCompileInputs.cache
+C:\Users\dsnerp\Documents\Code\Curso Weberson\CSharp\HotelCSharp\obj\Debug\net6.0\HotelCSharp.dll
+C:\Users\dsnerp\Documents\Code\Curso Weberson\CSharp\HotelCSharp\obj\Debug\net6.0\refint\HotelCSharp.dll
+C:\Users\dsnerp\Documents\Code\Curso Weberson\CSharp\HotelCSharp\obj\Debug\net6.0\HotelCSharp.pdb
+C:\Users\dsnerp\Documents\Code\Curso Weberson\CSharp\HotelCSharp\obj\Debug\net6.0\HotelCSharp.genruntimeconfig.cache
+C:\Users\dsnerp\Documents\Code\Curso Weberson\CSharp\HotelCSharp\obj\Debug\net6.0\ref\HotelCSharp.dll
